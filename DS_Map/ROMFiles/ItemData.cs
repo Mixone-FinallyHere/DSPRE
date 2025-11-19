@@ -19,6 +19,8 @@ namespace DSPRE.ROMFiles
         Bug = 6,
         Ghost = 7,
         Steel = 8,
+        // Fairy Patch required
+        Fairy = 9,
         Fire = 10,
         Water = 11,
         Grass = 12,
@@ -244,6 +246,8 @@ namespace DSPRE.ROMFiles
         EvolveMagmar = 144,
         EvolvePorygon2 = 145,
         EvolveDusclops = 146,
+        // Simole fairy patch
+        ArceusFairy = 147,
         // These are hg-engine items, not in gen 4
         //BurnDrive = 147,
         //ChillDrive = 148,
