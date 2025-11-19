@@ -15,7 +15,7 @@ env:
 
 jobs:
   build:
-    if: github.repository == 'DS-Pokemon-Rom-Editor/DSPRE'
+    if: github.repository == 'Mixone-FinallyHere/DSPRE'
     runs-on: windows-latest
 
     steps:
