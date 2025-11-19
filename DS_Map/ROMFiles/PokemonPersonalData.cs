@@ -20,7 +20,7 @@ namespace DSPRE.ROMFiles {
         Bug,
         Ghost,
         Steel,
-        Unknown,
+        Fairy,
         Fire,
         Water,
         Grass,
